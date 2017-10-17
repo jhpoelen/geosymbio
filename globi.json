@@ -1,4 +1,4 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "_comment": "Palm-frugivore Interactions SouthEast Asia",
+  "citation": "F. Gabriel. Muñoz. 2017. Palm-Animal frugivore associations extracted from literature with Biodiversity Observations Miner for SouthEast Asia."
 }
