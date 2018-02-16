@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/template-dataset.svg)](https://travis-ci.org/globalbioticinteractions/template-dataset) [![DOI](https://zenodo.org/badge/103672797.svg)](https://zenodo.org/badge/latestdoi/103672797)
- [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/template-dataset)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/template-dataset) 
+[![Build Status](https://travis-ci.org/fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia.svg)](https://travis-ci.org/fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia) [![DOI](https://zenodo.org/badge/103672797.svg)](https://zenodo.org/badge/latestdoi/103672797)
+ [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia)](http://globalbioticinteractions.org/?accordingTo=globi:fgabriel1891/Plant-Frugivore-Interactions-SouthEastAsia) 
 
 This repository provides interaction data on plant-animal frugivory interactions available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
